@@ -32,3 +32,4 @@ function davetEt(ilkDaveltli: string, ...digerleri: string[]) {
     return ilkDaveltli + digerleri.join(" ")
 }
 console.log(davetEt("Engin", "Derin", "Salih", "Ahmet"))
+console.log(davetEt("Engin", "Derin", "Salih", "Ahmet"))

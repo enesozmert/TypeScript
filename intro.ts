@@ -7,6 +7,7 @@ let sehir: string
 sehir = "Ankara"
 let dogrulugu: boolean
 dogrulugu = false
+dogrulugu = true
 
 let sayilar: number[] = [1, 2, 3]
 let sayilar2: Array<number> = [1, 2, 3]

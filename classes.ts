@@ -14,3 +14,4 @@ class Ev {
 let ev = new Ev(1, 2, 3)
 ev.yemekYe();
 console.log(ev._kat)
+console.log(ev._kat)
